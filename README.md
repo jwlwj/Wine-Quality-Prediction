@@ -8,7 +8,7 @@ Linear regression predictor is generated as a baseline of predictor, and three a
 
 ## Results:
 ### Pairplot For Red WInes and White Wines
-![pairplot
+![pairplot](./pairplot.png)
 ### White Wines:
 | Algorithms | Accuracy | RMSE |
 | :---:  | :---:  | :---:  |
